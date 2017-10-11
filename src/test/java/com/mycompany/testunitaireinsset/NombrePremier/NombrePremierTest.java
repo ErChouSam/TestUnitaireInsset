@@ -38,6 +38,10 @@ public class NombrePremierTest {
     public void tearDown() {
     }
 
+    /*
+    *   Test de la méthode 
+    */
+    
     /**
      * Test de la methode isPremier aec un nombre premier
      */
